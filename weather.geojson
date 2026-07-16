@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "name": "Thailand_Weather_Stations",
   "features": [
     {
       "type": "Feature",
@@ -19,7 +20,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -41,7 +42,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -63,7 +64,7 @@
         "wind_speed": 14.8,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -85,7 +86,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -107,7 +108,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 190.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -129,7 +130,7 @@
         "wind_speed": 13.0,
         "wind_direction_deg": 80.0,
         "wind_direction_label": "E",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -151,7 +152,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 250.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -173,7 +174,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 180.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -195,7 +196,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -217,7 +218,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 260.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -239,7 +240,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 160.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -261,7 +262,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 260.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -283,7 +284,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 190.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -305,7 +306,7 @@
         "wind_speed": 13.0,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -327,7 +328,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -349,7 +350,7 @@
         "wind_speed": 18.5,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -371,7 +372,7 @@
         "wind_speed": 13.0,
         "wind_direction_deg": 140.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -393,7 +394,7 @@
         "wind_speed": 18.5,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -415,7 +416,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -437,7 +438,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -459,7 +460,7 @@
         "wind_speed": 13.0,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -481,7 +482,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 140.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -503,7 +504,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -525,7 +526,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 140.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -547,7 +548,7 @@
         "wind_speed": 1.9,
         "wind_direction_deg": 270.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -569,7 +570,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 190.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -591,7 +592,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -613,7 +614,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -635,7 +636,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 180.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -657,7 +658,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -679,7 +680,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -701,7 +702,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -723,7 +724,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 180.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -745,7 +746,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -767,7 +768,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -789,7 +790,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -811,7 +812,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -833,7 +834,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 160.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -855,7 +856,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 270.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -877,7 +878,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -899,7 +900,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 170.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -921,7 +922,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 290.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -943,7 +944,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -965,7 +966,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -987,7 +988,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1009,7 +1010,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 180.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1031,7 +1032,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 160.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1053,7 +1054,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1073,9 +1074,9 @@
         "rainfall": 0.0,
         "rainfall_24hr": 0.2,
         "wind_speed": 3.7,
-        "wind_direction_deg": 990.0,
+        "wind_direction_deg": null,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1097,7 +1098,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1119,7 +1120,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1141,7 +1142,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1163,7 +1164,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1185,7 +1186,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1207,7 +1208,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1229,7 +1230,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 170.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1251,7 +1252,7 @@
         "wind_speed": 1.9,
         "wind_direction_deg": 130.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1273,7 +1274,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1295,7 +1296,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1317,7 +1318,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 270.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1339,7 +1340,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1361,7 +1362,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 190.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1383,7 +1384,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 160.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1405,7 +1406,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1427,7 +1428,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1449,7 +1450,7 @@
         "wind_speed": 13.0,
         "wind_direction_deg": 140.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1471,7 +1472,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1493,7 +1494,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1515,7 +1516,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1537,7 +1538,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1559,7 +1560,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 140.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1581,7 +1582,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1603,7 +1604,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1625,7 +1626,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 180.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1647,7 +1648,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1669,7 +1670,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1691,7 +1692,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1713,7 +1714,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1735,7 +1736,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 140.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1757,7 +1758,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1779,7 +1780,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1801,7 +1802,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1823,7 +1824,7 @@
         "wind_speed": 22.2,
         "wind_direction_deg": 270.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1845,7 +1846,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 170.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1867,7 +1868,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 150.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1889,7 +1890,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1911,7 +1912,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1933,7 +1934,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 160.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1955,7 +1956,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1977,7 +1978,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -1999,7 +2000,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2021,7 +2022,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2043,7 +2044,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2065,7 +2066,7 @@
         "wind_speed": 5.6,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2087,7 +2088,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2109,7 +2110,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2131,7 +2132,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 170.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2153,7 +2154,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 180.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2175,7 +2176,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 160.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2197,7 +2198,7 @@
         "wind_speed": 14.8,
         "wind_direction_deg": 260.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2219,7 +2220,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2241,7 +2242,7 @@
         "wind_speed": 16.7,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2263,7 +2264,7 @@
         "wind_speed": 14.8,
         "wind_direction_deg": 290.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2285,7 +2286,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 180.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2307,7 +2308,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2329,7 +2330,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2351,7 +2352,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2373,7 +2374,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2395,7 +2396,7 @@
         "wind_speed": 18.5,
         "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2417,7 +2418,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2439,7 +2440,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2461,7 +2462,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2483,7 +2484,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2505,7 +2506,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2527,7 +2528,7 @@
         "wind_speed": 13.0,
         "wind_direction_deg": 170.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2549,7 +2550,7 @@
         "wind_speed": 18.5,
         "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2571,7 +2572,7 @@
         "wind_speed": 29.6,
         "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2593,7 +2594,7 @@
         "wind_speed": 14.8,
         "wind_direction_deg": 140.0,
         "wind_direction_label": "SE",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2615,7 +2616,7 @@
         "wind_speed": 13.0,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2637,7 +2638,7 @@
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2659,7 +2660,7 @@
         "wind_speed": 9.3,
         "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2681,7 +2682,7 @@
         "wind_speed": 11.1,
         "wind_direction_deg": 280.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2703,7 +2704,7 @@
         "wind_speed": 16.7,
         "wind_direction_deg": 250.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2725,7 +2726,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 260.0,
         "wind_direction_label": "W",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2747,7 +2748,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 220.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2769,7 +2770,7 @@
         "wind_speed": 7.4,
         "wind_direction_deg": 210.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     },
@@ -2791,7 +2792,7 @@
         "wind_speed": 3.7,
         "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
-        "date": "07/16/2026",
+        "observation_date": "2026-07-16",
         "record_timestamp": "2026-07-16T03:55:21.988715"
       }
     }
