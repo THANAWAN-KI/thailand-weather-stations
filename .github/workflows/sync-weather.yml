@@ -1,0 +1,59 @@
+name: Sync Thailand Weather Stations
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # ทุก 1 ชั่วโมง ที่นาที 23
+    - cron: "23 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: thailand-weather-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download and clean weather data
+        env:
+          WEATHER_SOURCE_URL: ${{ secrets.WEATHER_SOURCE_URL }}
+        run: python update_weather.py
+
+      - name: Synchronize ArcGIS Online
+        env:
+          ARCGIS_USERNAME: ${{ secrets.ARCGIS_USERNAME }}
+          ARCGIS_PASSWORD: ${{ secrets.ARCGIS_PASSWORD }}
+          ARCGIS_ITEM_ID: ${{ secrets.ARCGIS_ITEM_ID }}
+        run: python sync_arcgis.py
+
+      - name: Commit latest GeoJSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add weather.geojson
+
+          if git diff --cached --quiet; then
+            echo "No GeoJSON changes"
+          else
+            git commit -m "Update Thailand weather GeoJSON"
+            git push
+          fi
