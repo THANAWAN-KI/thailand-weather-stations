@@ -7,6 +7,1414 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          99.9,
+          19.13333
+        ]
+      },
+      "properties": {
+        "station_name": "พะเยา",
+        "province": "พะเยา",
+        "temp": 26.4,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 80.0,
+        "wind_direction_label": "E",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1,
+          17.61667
+        ]
+      },
+      "properties": {
+        "station_name": "อุตรดิตถ์",
+        "province": "อุตรดิตถ์",
+        "temp": 31.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.2,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 170.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.86167,
+          17.16136
+        ]
+      },
+      "properties": {
+        "station_name": "ศรีสำโรง สกษ.",
+        "province": "สุโขทัย",
+        "temp": 32.1,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.2,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.81667,
+          16.33333
+        ]
+      },
+      "properties": {
+        "station_name": "ท่าพระ สกษ.",
+        "province": "ขอนแก่น",
+        "temp": 33.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 310.0,
+        "wind_direction_label": "NW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.21436,
+          15.79494
+        ]
+      },
+      "properties": {
+        "station_name": "ยโสธร",
+        "province": "ยโสธร",
+        "temp": 31.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 280.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.645,
+          14.79972
+        ]
+      },
+      "properties": {
+        "station_name": "ลพบุรี",
+        "province": "ลพบุรี",
+        "temp": 34.4,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 13.0,
+        "wind_direction_deg": 170.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68333,
+          15.31667
+        ]
+      },
+      "properties": {
+        "station_name": "ท่าตูม",
+        "province": "สุรินทร์",
+        "temp": 32.8,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 180.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.605,
+          13.91917
+        ]
+      },
+      "properties": {
+        "station_name": "สนามบินดอนเมือง",
+        "province": "กรุงเทพมหานคร",
+        "temp": 32.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.01,
+        "wind_speed": 18.5,
+        "wind_direction_deg": 220.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9625,
+          12.58611
+        ]
+      },
+      "properties": {
+        "station_name": "หัวหิน",
+        "province": "ประจวบคีรีขันธ์",
+        "temp": 33.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 14.8,
+        "wind_direction_deg": 280.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.50667,
+          8.42472
+        ]
+      },
+      "properties": {
+        "station_name": "ฉวาง",
+        "province": "นครศรีธรรมราช",
+        "temp": 33.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 1.0,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 200.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.08333,
+          6.65
+        ]
+      },
+      "properties": {
+        "station_name": "สตูล",
+        "province": "สตูล",
+        "temp": 30.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 280.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.03389,
+          18.56722
+        ]
+      },
+      "properties": {
+        "station_name": "ลำพูน",
+        "province": "ลำพูน",
+        "temp": 29.9,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 280.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.061,
+          17.12503
+        ]
+      },
+      "properties": {
+        "station_name": "สกลนคร สกษ.",
+        "province": "สกลนคร",
+        "temp": 31.9,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 250.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2793,
+          16.79481
+        ]
+      },
+      "properties": {
+        "station_name": "พิษณุโลก",
+        "province": "พิษณุโลก",
+        "temp": 31.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 6.8,
+        "wind_speed": 9.3,
+        "wind_direction_deg": 260.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.13236,
+          15.67183
+        ]
+      },
+      "properties": {
+        "station_name": "นครสวรรค์",
+        "province": "นครสวรรค์",
+        "temp": 31.9,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.39278,
+          14.36222
+        ]
+      },
+      "properties": {
+        "station_name": "นครนายก",
+        "province": "นครนายก",
+        "temp": 22.8,
+        "rainfall": 0.2,
+        "rainfall_24hr": 15.5,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 140.0,
+        "wind_direction_label": "SE",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.70722,
+          13.98333
+        ]
+      },
+      "properties": {
+        "station_name": "กบินทร์บุรี",
+        "province": "ปราจีนบุรี",
+        "temp": 31.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 3.1,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.53583,
+          14.0225
+        ]
+      },
+      "properties": {
+        "station_name": "กาญจนบุรี",
+        "province": "กาญจนบุรี",
+        "temp": 35.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.01,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 340.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.06056,
+          12.99944
+        ]
+      },
+      "properties": {
+        "station_name": "เพชรบุรี",
+        "province": "เพชรบุรี",
+        "temp": 32.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.01,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.15194,
+          9.13556
+        ]
+      },
+      "properties": {
+        "station_name": "สุราษฎร์ธานี",
+        "province": "สุราษฎร์ธานี",
+        "temp": 34.9,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.97528,
+          8.10361
+        ]
+      },
+      "properties": {
+        "station_name": "กระบี่",
+        "province": "กระบี่",
+        "temp": 32.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 1.6,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 290.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.16667,
+          18.16667
+        ]
+      },
+      "properties": {
+        "station_name": "แพร่",
+        "province": "แพร่",
+        "temp": 30.1,
+        "rainfall": 0.4,
+        "rainfall_24hr": 1.6,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7825,
+          17.41083
+        ]
+      },
+      "properties": {
+        "station_name": "นครพนม",
+        "province": "นครพนม",
+        "temp": 31.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 6.5,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.15,
+          16.43333
+        ]
+      },
+      "properties": {
+        "station_name": "เพชรบูรณ์",
+        "province": "เพชรบูรณ์",
+        "temp": 28.6,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53028,
+          15.34944
+        ]
+      },
+      "properties": {
+        "station_name": "ตากฟ้า สกษ.",
+        "province": "นครสวรรค์",
+        "temp": 33.9,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 270.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61667,
+          14.1
+        ]
+      },
+      "properties": {
+        "station_name": "ปทุมธานี สกษ.",
+        "province": "ปทุมธานี",
+        "temp": 35.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.2,
+        "wind_speed": 9.3,
+        "wind_direction_deg": 240.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.08603,
+          14.9683
+        ]
+      },
+      "properties": {
+        "station_name": "นครราชสีมา",
+        "province": "นครราชสีมา",
+        "temp": 33.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 9.3,
+        "wind_direction_deg": 300.0,
+        "wind_direction_label": "NW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.63639,
+          14.74222
+        ]
+      },
+      "properties": {
+        "station_name": "ทองผาภูมิ",
+        "province": "กาญจนบุรี",
+        "temp": 30.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 1.4,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 340.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.34075,
+          12.63369
+        ]
+      },
+      "properties": {
+        "station_name": "ระยอง",
+        "province": "ระยอง",
+        "temp": 29.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 11.1,
+        "wind_direction_deg": 250.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.03361,
+          9.45097
+        ]
+      },
+      "properties": {
+        "station_name": "เกาะสมุย",
+        "province": "สุราษฎร์ธานี",
+        "temp": 35.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 5.8,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 280.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.61667,
+          7.51667
+        ]
+      },
+      "properties": {
+        "station_name": "ตรัง",
+        "province": "ตรัง",
+        "temp": 31.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 180.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.88139,
+          19.96139
+        ]
+      },
+      "properties": {
+        "station_name": "เชียงราย",
+        "province": "เชียงราย",
+        "temp": 25.3,
+        "rainfall": 1.6,
+        "rainfall_24hr": 2.2,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 160.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8025,
+          19.11056
+        ]
+      },
+      "properties": {
+        "station_name": "ท่าวังผา",
+        "province": "น่าน",
+        "temp": 25.5,
+        "rainfall": 0.6,
+        "rainfall_24hr": 3.0,
+        "wind_speed": 16.7,
+        "wind_direction_deg": 120.0,
+        "wind_direction_label": "SE",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.51672,
+          18.41361
+        ]
+      },
+      "properties": {
+        "station_name": "บึงกาฬ",
+        "province": "บึงกาฬ",
+        "temp": 29.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 9.3,
+        "wind_direction_deg": 240.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.52697,
+          16.48681
+        ]
+      },
+      "properties": {
+        "station_name": "กำแพงเพชร",
+        "province": "กำแพงเพชร",
+        "temp": 32.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74389,
+          16.02
+        ]
+      },
+      "properties": {
+        "station_name": "ร้อยเอ็ด",
+        "province": "ร้อยเอ็ด",
+        "temp": 32.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 260.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.13889,
+          14.47444
+        ]
+      },
+      "properties": {
+        "station_name": "สุพรรณบุรี",
+        "province": "สุพรรณบุรี",
+        "temp": 32.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 14.8,
+        "wind_direction_deg": 270.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5,
+          14.88333
+        ]
+      },
+      "properties": {
+        "station_name": "สุรินทร์",
+        "province": "สุรินทร์",
+        "temp": 32.1,
+        "rainfall": 0.0,
+        "rainfall_24hr": 14.5,
+        "wind_speed": 13.0,
+        "wind_direction_deg": 200.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56805,
+          13.70694
+        ]
+      },
+      "properties": {
+        "station_name": "กรุงเทพฯ ท่าเรือคลองเตย",
+        "province": "กรุงเทพมหานคร",
+        "temp": 32.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 15.3,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 200.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.17305,
+          12.50861
+        ]
+      },
+      "properties": {
+        "station_name": "พลิ้ว สกษ.",
+        "province": "จันทบุรี",
+        "temp": 29.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 9.3,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.94722,
+          8.53778
+        ]
+      },
+      "properties": {
+        "station_name": "นครศรีธรรมราช",
+        "province": "นครศรีธรรมราช",
+        "temp": 32.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.4,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 20.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60769,
+          7.18211
+        ]
+      },
+      "properties": {
+        "station_name": "สงขลา",
+        "province": "สงขลา",
+        "temp": 30.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.01,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 190.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.97578,
+          19.29897
+        ]
+      },
+      "properties": {
+        "station_name": "แม่ฮ่องสอน",
+        "province": "แม่ฮ่องสอน",
+        "temp": 29.6,
+        "rainfall": 0.2,
+        "rainfall_24hr": 13.2,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.77778,
+          18.77972
+        ]
+      },
+      "properties": {
+        "station_name": "น่าน",
+        "province": "น่าน",
+        "temp": 28.1,
+        "rainfall": 0.2,
+        "rainfall_24hr": 0.2,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.77367,
+          17.27642
+        ]
+      },
+      "properties": {
+        "station_name": "นครพนม สกษ.",
+        "province": "นครพนม",
+        "temp": 30.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 2.4,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 220.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.24944,
+          16.77361
+        ]
+      },
+      "properties": {
+        "station_name": "หล่มสัก",
+        "province": "เพชรบูรณ์",
+        "temp": 31.9,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.4,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 250.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.18333,
+          15.15
+        ]
+      },
+      "properties": {
+        "station_name": "ชัยนาท สกษ.",
+        "province": "ชัยนาท",
+        "temp": 34.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 80.0,
+        "wind_direction_label": "E",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.45833,
+          13.51556
+        ]
+      },
+      "properties": {
+        "station_name": "ฉะเชิงเทรา",
+        "province": "ฉะเชิงเทรา",
+        "temp": 30.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 1.3,
+        "wind_speed": 1.9,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.33194,
+          14.64389
+        ]
+      },
+      "properties": {
+        "station_name": "ปากช่อง สกษ.",
+        "province": "นครราชสีมา",
+        "temp": 30.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.4,
+        "wind_speed": 20.4,
+        "wind_direction_deg": 240.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.97,
+          14.01167
+        ]
+      },
+      "properties": {
+        "station_name": "นครปฐม",
+        "province": "นครปฐม",
+        "temp": 35.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.1,
+        "wind_speed": 14.8,
+        "wind_direction_deg": 280.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.135,
+          12.735
+        ]
+      },
+      "properties": {
+        "station_name": "ห้วยโป่ง สกษ.",
+        "province": "ระยอง",
+        "temp": 29.4,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 300.0,
+        "wind_direction_label": "NW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.63333,
+          9.1
+        ]
+      },
+      "properties": {
+        "station_name": "สุราษฎร์ธานี สกษ.",
+        "province": "สุราษฎร์ธานี",
+        "temp": 34.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.7,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 270.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5,
+          7.0
+        ]
+      },
+      "properties": {
+        "station_name": "คอหงษ์ สกษ.",
+        "province": "สงขลา",
+        "temp": 25.6,
+        "rainfall": 27.0,
+        "rainfall_24hr": 47.6,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.97694,
+          18.79
+        ]
+      },
+      "properties": {
+        "station_name": "เชียงใหม่",
+        "province": "เชียงใหม่",
+        "temp": 29.6,
+        "rainfall": 0.01,
+        "rainfall_24hr": 0.01,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 350.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.73333,
+          17.45
+        ]
+      },
+      "properties": {
+        "station_name": "เลย",
+        "province": "เลย",
+        "temp": 31.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 1.4,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 260.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.55083,
+          16.65917
+        ]
+      },
+      "properties": {
+        "station_name": "แม่สอด",
+        "province": "ตาก",
+        "temp": 27.5,
+        "rainfall": 0.1,
+        "rainfall_24hr": 12.4,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2925,
+          16.43806
+        ]
+      },
+      "properties": {
+        "station_name": "พิจิตร สกษ.",
+        "province": "พิจิตร",
+        "temp": 30.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.86667,
+          15.25
+        ]
+      },
+      "properties": {
+        "station_name": "อุบลราชธานี (ศูนย์ฯ)",
+        "province": "อุบลราชธานี",
+        "temp": 32.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 7.2,
+        "wind_speed": 16.7,
+        "wind_direction_deg": 280.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59944,
+          13.37722
+        ]
+      },
+      "properties": {
+        "station_name": "นำร่อง",
+        "province": "สมุทรปราการ",
+        "temp": 31.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 11.1,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8,
+          14.58333
+        ]
+      },
+      "properties": {
+        "station_name": "นางรอง",
+        "province": "บุรีรัมย์",
+        "temp": 31.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 3.8,
+        "wind_speed": 11.1,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.80194,
+          13.16167
+        ]
+      },
+      "properties": {
+        "station_name": "เกาะสีชัง",
+        "province": "ชลบุรี",
+        "temp": 31.8,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 11.1,
+        "wind_direction_deg": 200.0,
+        "wind_direction_label": "S",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.87808,
+          11.78033
+        ]
+      },
+      "properties": {
+        "station_name": "ตราด",
+        "province": "ตราด",
+        "temp": 31.9,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 11.1,
+        "wind_direction_deg": 290.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.25222,
+          8.68417
+        ]
+      },
+      "properties": {
+        "station_name": "ตะกั่วป่า",
+        "province": "พังงา",
+        "temp": 31.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.28333,
+          6.51667
+        ]
+      },
+      "properties": {
+        "station_name": "ยะลา สกษ.",
+        "province": "ยะลา",
+        "temp": 34.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.1,
+        "wind_speed": 9.3,
+        "wind_direction_deg": 340.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           97.93333,
           18.16667
         ]
@@ -14,14 +1422,14 @@
       "properties": {
         "station_name": "แม่สะเรียง",
         "province": "แม่ฮ่องสอน",
-        "temp": 29.2,
+        "temp": 29.7,
         "rainfall": 0.0,
-        "rainfall_24hr": 9.4,
+        "rainfall_24hr": 1.0,
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -36,14 +1444,14 @@
       "properties": {
         "station_name": "น่าน สกษ.",
         "province": "น่าน",
-        "temp": 26.6,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
+        "temp": 26.3,
+        "rainfall": 0.4,
+        "rainfall_24hr": 0.4,
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -61,11 +1469,11 @@
         "temp": 30.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 300.0,
-        "wind_direction_label": "NW",
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -80,14 +1488,14 @@
       "properties": {
         "station_name": "วิเชียรบุรี",
         "province": "เพชรบูรณ์",
-        "temp": 32.2,
+        "temp": 32.1,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 130.0,
-        "wind_direction_label": "SE",
+        "wind_speed": 5.6,
+        "wind_direction_deg": 300.0,
+        "wind_direction_label": "NW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -102,14 +1510,14 @@
       "properties": {
         "station_name": "ชัยภูมิ",
         "province": "ชัยภูมิ",
-        "temp": 32.0,
+        "temp": 32.8,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
+        "wind_speed": 7.4,
+        "wind_direction_deg": 250.0,
+        "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -124,14 +1532,14 @@
       "properties": {
         "station_name": "ราชบุรี",
         "province": "ราชบุรี",
-        "temp": 33.6,
+        "temp": 33.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
+        "wind_speed": 13.0,
+        "wind_direction_deg": 270.0,
+        "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -146,14 +1554,14 @@
       "properties": {
         "station_name": "โชคชัย",
         "province": "นครราชสีมา",
-        "temp": 32.6,
+        "temp": 32.4,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 300.0,
-        "wind_direction_label": "NW",
+        "wind_speed": 11.1,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -168,14 +1576,14 @@
       "properties": {
         "station_name": "กรุงเทพมหานคร",
         "province": "กรุงเทพมหานคร",
-        "temp": 33.0,
+        "temp": 32.5,
         "rainfall": 0.0,
-        "rainfall_24hr": 29.2,
+        "rainfall_24hr": 23.5,
         "wind_speed": 5.6,
-        "wind_direction_deg": 120.0,
-        "wind_direction_label": "SE",
+        "wind_direction_deg": 220.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -190,14 +1598,14 @@
       "properties": {
         "station_name": "จันทบุรี",
         "province": "จันทบุรี",
-        "temp": 32.0,
+        "temp": 29.7,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 300.0,
-        "wind_direction_label": "NW",
+        "wind_speed": 9.3,
+        "wind_direction_deg": 180.0,
+        "wind_direction_label": "S",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -212,14 +1620,14 @@
       "properties": {
         "station_name": "พระแสง สอท.",
         "province": "สุราษฎร์ธานี",
-        "temp": 33.4,
+        "temp": 33.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
         "wind_speed": 7.4,
-        "wind_direction_deg": 270.0,
-        "wind_direction_label": "W",
+        "wind_direction_deg": 300.0,
+        "wind_direction_label": "NW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -234,476 +1642,14 @@
       "properties": {
         "station_name": "สะเดา",
         "province": "สงขลา",
-        "temp": 32.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 3.1,
+        "temp": 28.3,
+        "rainfall": 1.3,
+        "rainfall_24hr": 4.4,
         "wind_speed": 5.6,
-        "wind_direction_deg": 280.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.16667,
-          18.16667
-        ]
-      },
-      "properties": {
-        "station_name": "แพร่",
-        "province": "แพร่",
-        "temp": 30.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 1.5,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.7825,
-          17.41083
-        ]
-      },
-      "properties": {
-        "station_name": "นครพนม",
-        "province": "นครพนม",
-        "temp": 30.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 6.5,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 240.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.15,
-          16.43333
-        ]
-      },
-      "properties": {
-        "station_name": "เพชรบูรณ์",
-        "province": "เพชรบูรณ์",
-        "temp": 31.7,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.53028,
-          15.34944
-        ]
-      },
-      "properties": {
-        "station_name": "ตากฟ้า สกษ.",
-        "province": "นครสวรรค์",
-        "temp": 32.3,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 210.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.61667,
-          14.1
-        ]
-      },
-      "properties": {
-        "station_name": "ปทุมธานี สกษ.",
-        "province": "ปทุมธานี",
-        "temp": 33.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.2,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 240.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.08603,
-          14.9683
-        ]
-      },
-      "properties": {
-        "station_name": "นครราชสีมา",
-        "province": "นครราชสีมา",
-        "temp": 32.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 270.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.63639,
-          14.74222
-        ]
-      },
-      "properties": {
-        "station_name": "ทองผาภูมิ",
-        "province": "กาญจนบุรี",
-        "temp": 25.8,
-        "rainfall": 1.2,
-        "rainfall_24hr": 1.4,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.34075,
-          12.63369
-        ]
-      },
-      "properties": {
-        "station_name": "ระยอง",
-        "province": "ระยอง",
-        "temp": 30.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 260.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.03361,
-          9.45097
-        ]
-      },
-      "properties": {
-        "station_name": "เกาะสมุย",
-        "province": "สุราษฎร์ธานี",
-        "temp": 36.2,
-        "rainfall": 0.0,
-        "rainfall_24hr": 5.8,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 250.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.61667,
-          7.51667
-        ]
-      },
-      "properties": {
-        "station_name": "ตรัง",
-        "province": "ตรัง",
-        "temp": 32.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.97578,
-          19.29897
-        ]
-      },
-      "properties": {
-        "station_name": "แม่ฮ่องสอน",
-        "province": "แม่ฮ่องสอน",
-        "temp": 24.8,
-        "rainfall": 5.2,
-        "rainfall_24hr": 13.6,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.77778,
-          18.77972
-        ]
-      },
-      "properties": {
-        "station_name": "น่าน",
-        "province": "น่าน",
-        "temp": 28.6,
-        "rainfall": 0.01,
-        "rainfall_24hr": 0.2,
-        "wind_speed": 3.7,
         "wind_direction_deg": 90.0,
         "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.77367,
-          17.27642
-        ]
-      },
-      "properties": {
-        "station_name": "นครพนม สกษ.",
-        "province": "นครพนม",
-        "temp": 30.4,
-        "rainfall": 0.0,
-        "rainfall_24hr": 2.4,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 220.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.24944,
-          16.77361
-        ]
-      },
-      "properties": {
-        "station_name": "หล่มสัก",
-        "province": "เพชรบูรณ์",
-        "temp": 30.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.4,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.18333,
-          15.15
-        ]
-      },
-      "properties": {
-        "station_name": "ชัยนาท สกษ.",
-        "province": "ชัยนาท",
-        "temp": 33.7,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 140.0,
-        "wind_direction_label": "SE",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.45833,
-          13.51556
-        ]
-      },
-      "properties": {
-        "station_name": "ฉะเชิงเทรา",
-        "province": "ฉะเชิงเทรา",
-        "temp": 31.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 1.3,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.33194,
-          14.64389
-        ]
-      },
-      "properties": {
-        "station_name": "ปากช่อง สกษ.",
-        "province": "นครราชสีมา",
-        "temp": 28.4,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.4,
-        "wind_speed": 20.4,
-        "wind_direction_deg": 270.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.97,
-          14.01167
-        ]
-      },
-      "properties": {
-        "station_name": "นครปฐม",
-        "province": "นครปฐม",
-        "temp": 34.3,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.1,
-        "wind_speed": 18.5,
-        "wind_direction_deg": 310.0,
-        "wind_direction_label": "NW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.135,
-          12.735
-        ]
-      },
-      "properties": {
-        "station_name": "ห้วยโป่ง สกษ.",
-        "province": "ระยอง",
-        "temp": 31.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 290.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.63333,
-          9.1
-        ]
-      },
-      "properties": {
-        "station_name": "สุราษฎร์ธานี สกษ.",
-        "province": "สุราษฎร์ธานี",
-        "temp": 33.7,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.7,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 250.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.5,
-          7.0
-        ]
-      },
-      "properties": {
-        "station_name": "คอหงษ์ สกษ.",
-        "province": "สงขลา",
-        "temp": 33.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 20.6,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -718,14 +1664,14 @@
       "properties": {
         "station_name": "ดอยอ่างขาง",
         "province": "เชียงใหม่",
-        "temp": 18.4,
-        "rainfall": 0.2,
-        "rainfall_24hr": 3.6,
-        "wind_speed": 7.4,
+        "temp": 18.6,
+        "rainfall": 1.0,
+        "rainfall_24hr": 2.2,
+        "wind_speed": 16.7,
         "wind_direction_deg": 100.0,
         "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -740,14 +1686,14 @@
       "properties": {
         "station_name": "หนองคาย",
         "province": "หนองคาย",
-        "temp": 30.7,
+        "temp": 30.8,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
         "wind_speed": 3.7,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
+        "wind_direction_deg": 170.0,
+        "wind_direction_label": "S",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -762,14 +1708,14 @@
       "properties": {
         "station_name": "ตาก",
         "province": "ตาก",
-        "temp": 31.5,
+        "temp": 31.3,
         "rainfall": 0.0,
         "rainfall_24hr": 1.6,
         "wind_speed": 13.0,
         "wind_direction_deg": 260.0,
         "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -784,14 +1730,14 @@
       "properties": {
         "station_name": "มุกดาหาร",
         "province": "มุกดาหาร",
-        "temp": 31.9,
+        "temp": 32.6,
         "rainfall": 0.0,
         "rainfall_24hr": 3.4,
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -806,14 +1752,14 @@
       "properties": {
         "station_name": "อุบลราชธานี สกษ.",
         "province": "อุบลราชธานี",
-        "temp": 32.3,
+        "temp": 31.0,
         "rainfall": 0.0,
         "rainfall_24hr": 12.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 280.0,
-        "wind_direction_label": "W",
+        "wind_speed": 5.6,
+        "wind_direction_deg": 240.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -828,14 +1774,14 @@
       "properties": {
         "station_name": "บัวชุม",
         "province": "ลพบุรี",
-        "temp": 30.4,
+        "temp": 33.1,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
+        "wind_speed": 7.4,
+        "wind_direction_deg": 270.0,
+        "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -850,14 +1796,14 @@
       "properties": {
         "station_name": "บุรีรัมย์",
         "province": "บุรีรัมย์",
-        "temp": 32.1,
+        "temp": 33.1,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 18.5,
-        "wind_direction_deg": 230.0,
+        "wind_speed": 16.7,
+        "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -872,14 +1818,14 @@
       "properties": {
         "station_name": "ชลบุรี",
         "province": "ชลบุรี",
-        "temp": 31.9,
+        "temp": 31.5,
         "rainfall": 0.0,
         "rainfall_24hr": 12.8,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 300.0,
-        "wind_direction_label": "NW",
+        "wind_speed": 7.4,
+        "wind_direction_deg": 120.0,
+        "wind_direction_label": "SE",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -894,14 +1840,14 @@
       "properties": {
         "station_name": "หนองพลับ สกษ.",
         "province": "ประจวบคีรีขันธ์",
-        "temp": 31.4,
+        "temp": 30.9,
         "rainfall": 0.0,
         "rainfall_24hr": 4.8,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 340.0,
+        "wind_speed": 13.0,
+        "wind_direction_deg": 10.0,
         "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -916,14 +1862,14 @@
       "properties": {
         "station_name": "พัทลุง สกษ.",
         "province": "พัทลุง",
-        "temp": 33.1,
-        "rainfall": 0.0,
-        "rainfall_24hr": 29.0,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
+        "temp": 26.6,
+        "rainfall": 7.2,
+        "rainfall_24hr": 7.2,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -938,14 +1884,234 @@
       "properties": {
         "station_name": "ปัตตานี",
         "province": "ปัตตานี",
-        "temp": 33.5,
+        "temp": 27.0,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 60.0,
-        "wind_direction_label": "NE",
+        "wind_speed": 29.6,
+        "wind_direction_deg": 310.0,
+        "wind_direction_label": "NW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.24475,
+          17.63661
+        ]
+      },
+      "properties": {
+        "station_name": "เถิน",
+        "province": "ลำปาง",
+        "temp": 34.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.2,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8,
+          17.38333
+        ]
+      },
+      "properties": {
+        "station_name": "อุดรธานี",
+        "province": "อุดรธานี",
+        "temp": 30.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 3.2,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 240.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.93333,
+          16.75
+        ]
+      },
+      "properties": {
+        "station_name": "ดอยมูเซอร์ สกษ.",
+        "province": "ตาก",
+        "temp": 21.9,
+        "rainfall": 0.01,
+        "rainfall_24hr": 10.4,
+        "wind_speed": 14.8,
+        "wind_direction_deg": 270.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.58833,
+          16.3325
+        ]
+      },
+      "properties": {
+        "station_name": "กาฬสินธุ์",
+        "province": "กาฬสินธุ์",
+        "temp": 33.2,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 120.0,
+        "wind_direction_label": "SE",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.03889,
+          15.37417
+        ]
+      },
+      "properties": {
+        "station_name": "อุทัยธานี",
+        "province": "อุทัยธานี",
+        "temp": 35.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7675,
+          13.68639
+        ]
+      },
+      "properties": {
+        "station_name": "สนามบินสุวรรณภูมิ",
+        "province": "สมุทรปราการ",
+        "temp": 32.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 44.4,
+        "wind_speed": 13.0,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.50417,
+          13.68869
+        ]
+      },
+      "properties": {
+        "station_name": "อรัญประเทศ",
+        "province": "สระแก้ว",
+        "temp": 28.7,
+        "rainfall": 0.0,
+        "rainfall_24hr": 9.9,
+        "wind_speed": 9.3,
+        "wind_direction_deg": 300.0,
+        "wind_direction_label": "NW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.98333,
+          12.68333
+        ]
+      },
+      "properties": {
+        "station_name": "สัตหีบ",
+        "province": "ชลบุรี",
+        "temp": 31.0,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.01,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 250.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1,
+          10.33333
+        ]
+      },
+      "properties": {
+        "station_name": "สวี สกษ.",
+        "province": "ชุมพร",
+        "temp": 31.3,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.0,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 250.0,
+        "wind_direction_label": "W",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.31444,
+          8.145
+        ]
+      },
+      "properties": {
+        "station_name": "ภูเก็ต (ศูนย์ฯ)",
+        "province": "ภูเก็ต",
+        "temp": 32.8,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.8,
+        "wind_speed": 11.1,
+        "wind_direction_deg": 300.0,
+        "wind_direction_label": "NW",
+        "observation_date": "2026-07-17",
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -960,14 +2126,14 @@
       "properties": {
         "station_name": "ลำปาง สกษ.",
         "province": "ลำปาง",
-        "temp": 30.8,
+        "temp": 30.2,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 80.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 70.0,
         "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -982,14 +2148,14 @@
       "properties": {
         "station_name": "สกลนคร",
         "province": "สกลนคร",
-        "temp": 31.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.01,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
+        "temp": 29.5,
+        "rainfall": 1.2,
+        "rainfall_24hr": 1.2,
+        "wind_speed": 1.9,
+        "wind_direction_deg": 80.0,
+        "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1004,14 +2170,14 @@
       "properties": {
         "station_name": "อุ้มผาง",
         "province": "ตาก",
-        "temp": 26.1,
-        "rainfall": 7.5,
-        "rainfall_24hr": 7.9,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 120.0,
-        "wind_direction_label": "SE",
+        "temp": 25.4,
+        "rainfall": 0.6,
+        "rainfall_24hr": 8.4,
+        "wind_speed": 1.9,
+        "wind_direction_deg": 80.0,
+        "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1026,14 +2192,14 @@
       "properties": {
         "station_name": "อำนาจเจริญ",
         "province": "อำนาจเจริญ",
-        "temp": 30.0,
+        "temp": 30.6,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
         "wind_speed": 9.3,
         "wind_direction_deg": 260.0,
         "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1048,14 +2214,14 @@
       "properties": {
         "station_name": "พระนครศรีอยุธยา",
         "province": "พระนครศรีอยุธยา",
-        "temp": 34.8,
+        "temp": 34.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 1.9,
-        "wind_direction_deg": 270.0,
-        "wind_direction_label": "W",
+        "wind_speed": 3.7,
+        "wind_direction_deg": 240.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1070,14 +2236,14 @@
       "properties": {
         "station_name": "ปราจีนบุรี",
         "province": "ปราจีนบุรี",
-        "temp": 30.8,
+        "temp": 32.3,
         "rainfall": 0.0,
-        "rainfall_24hr": 22.6,
+        "rainfall_24hr": 19.8,
         "wind_speed": 5.6,
-        "wind_direction_deg": 320.0,
-        "wind_direction_label": "NW",
+        "wind_direction_deg": 240.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1093,13 +2259,13 @@
         "station_name": "สระแก้ว",
         "province": "สระแก้ว",
         "temp": 30.5,
-        "rainfall": 0.01,
-        "rainfall_24hr": 23.5,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
+        "rainfall": 0.0,
+        "rainfall_24hr": 1.3,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 220.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1114,14 +2280,14 @@
       "properties": {
         "station_name": "แหลมฉบัง",
         "province": "ชลบุรี",
-        "temp": 31.9,
+        "temp": 32.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 13.0,
+        "wind_speed": 7.4,
         "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1136,14 +2302,14 @@
       "properties": {
         "station_name": "ระนอง",
         "province": "ระนอง",
-        "temp": 29.8,
-        "rainfall": 0.2,
-        "rainfall_24hr": 1.0,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 220.0,
-        "wind_direction_label": "SW",
+        "temp": 28.5,
+        "rainfall": 0.0,
+        "rainfall_24hr": 0.4,
+        "wind_speed": 1.9,
+        "wind_direction_deg": 340.0,
+        "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1158,256 +2324,14 @@
       "properties": {
         "station_name": "เกาะลันตา",
         "province": "กระบี่",
-        "temp": 31.7,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 290.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.97694,
-          18.79
-        ]
-      },
-      "properties": {
-        "station_name": "เชียงใหม่",
-        "province": "เชียงใหม่",
-        "temp": 29.4,
-        "rainfall": 0.01,
-        "rainfall_24hr": 0.01,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 220.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.73333,
-          17.45
-        ]
-      },
-      "properties": {
-        "station_name": "เลย",
-        "province": "เลย",
-        "temp": 30.0,
-        "rainfall": 1.4,
-        "rainfall_24hr": 1.4,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 150.0,
-        "wind_direction_label": "SE",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.55083,
-          16.65917
-        ]
-      },
-      "properties": {
-        "station_name": "แม่สอด",
-        "province": "ตาก",
-        "temp": 25.5,
-        "rainfall": 0.4,
-        "rainfall_24hr": 12.5,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 150.0,
-        "wind_direction_label": "SE",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.2925,
-          16.43806
-        ]
-      },
-      "properties": {
-        "station_name": "พิจิตร สกษ.",
-        "province": "พิจิตร",
         "temp": 31.0,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 320.0,
-        "wind_direction_label": "NW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.86667,
-          15.25
-        ]
-      },
-      "properties": {
-        "station_name": "อุบลราชธานี (ศูนย์ฯ)",
-        "province": "อุบลราชธานี",
-        "temp": 32.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 7.2,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 290.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.59944,
-          13.37722
-        ]
-      },
-      "properties": {
-        "station_name": "นำร่อง",
-        "province": "สมุทรปราการ",
-        "temp": 31.4,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
         "wind_speed": 14.8,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.8,
-          14.58333
-        ]
-      },
-      "properties": {
-        "station_name": "นางรอง",
-        "province": "บุรีรัมย์",
-        "temp": 30.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 3.8,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 240.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.80194,
-          13.16167
-        ]
-      },
-      "properties": {
-        "station_name": "เกาะสีชัง",
-        "province": "ชลบุรี",
-        "temp": 32.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 250.0,
+        "wind_direction_deg": 270.0,
         "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.87808,
-          11.78033
-        ]
-      },
-      "properties": {
-        "station_name": "ตราด",
-        "province": "ตราด",
-        "temp": 33.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 11.8,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 220.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.25222,
-          8.68417
-        ]
-      },
-      "properties": {
-        "station_name": "ตะกั่วป่า",
-        "province": "พังงา",
-        "temp": 31.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 240.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.28333,
-          6.51667
-        ]
-      },
-      "properties": {
-        "station_name": "ยะลา สกษ.",
-        "province": "ยะลา",
-        "temp": 34.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.1,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 290.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1422,14 +2346,14 @@
       "properties": {
         "station_name": "ลำปาง",
         "province": "ลำปาง",
-        "temp": 31.2,
+        "temp": 31.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 170.0,
-        "wind_direction_label": "S",
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1444,14 +2368,14 @@
       "properties": {
         "station_name": "เลย สกษ.",
         "province": "เลย",
-        "temp": 30.6,
+        "temp": 31.8,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 180.0,
-        "wind_direction_label": "S",
+        "wind_speed": 5.6,
+        "wind_direction_deg": 300.0,
+        "wind_direction_label": "NW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1466,14 +2390,14 @@
       "properties": {
         "station_name": "เขื่อนภูมิพล",
         "province": "ตาก",
-        "temp": 31.5,
+        "temp": 31.7,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1488,14 +2412,14 @@
       "properties": {
         "station_name": "มหาสารคาม",
         "province": "มหาสารคาม",
-        "temp": 32.9,
+        "temp": 33.7,
         "rainfall": 0.0,
         "rainfall_24hr": 0.01,
         "wind_speed": 3.7,
-        "wind_direction_deg": 250.0,
+        "wind_direction_deg": 290.0,
         "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1510,14 +2434,14 @@
       "properties": {
         "station_name": "ศรีสะเกษ",
         "province": "ศรีสะเกษ",
-        "temp": 32.4,
-        "rainfall": 0.0,
-        "rainfall_24hr": 9.9,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 210.0,
-        "wind_direction_label": "SW",
+        "temp": 32.1,
+        "rainfall": 0.3,
+        "rainfall_24hr": 10.2,
+        "wind_speed": 0.0,
+        "wind_direction_deg": 0.0,
+        "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1539,7 +2463,7 @@
         "wind_direction_deg": 90.0,
         "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1554,14 +2478,14 @@
       "properties": {
         "station_name": "สมุทรสงคราม",
         "province": "สมุทรสงคราม",
-        "temp": 32.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 2.4,
+        "temp": 31.4,
+        "rainfall": 0.6,
+        "rainfall_24hr": 2.8,
         "wind_speed": 9.3,
-        "wind_direction_deg": 190.0,
+        "wind_direction_deg": 170.0,
         "wind_direction_label": "S",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1576,14 +2500,14 @@
       "properties": {
         "station_name": "พัทยา",
         "province": "ชลบุรี",
-        "temp": 30.3,
+        "temp": 30.0,
         "rainfall": 0.0,
         "rainfall_24hr": 0.4,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 130.0,
-        "wind_direction_label": "SE",
+        "wind_speed": 11.1,
+        "wind_direction_deg": 100.0,
+        "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1598,14 +2522,14 @@
       "properties": {
         "station_name": "ชุมพร",
         "province": "ชุมพร",
-        "temp": 31.5,
+        "temp": 29.3,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 290.0,
-        "wind_direction_label": "W",
+        "wind_speed": 7.4,
+        "wind_direction_deg": 310.0,
+        "wind_direction_label": "NW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1620,14 +2544,14 @@
       "properties": {
         "station_name": "ภูเก็ต",
         "province": "ภูเก็ต",
-        "temp": 34.5,
+        "temp": 33.2,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
+        "wind_speed": 11.1,
+        "wind_direction_deg": 270.0,
+        "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -1642,696 +2566,14 @@
       "properties": {
         "station_name": "นราธิวาส",
         "province": "นราธิวาส",
-        "temp": 32.0,
+        "temp": 30.7,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 260.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.88139,
-          19.96139
-        ]
-      },
-      "properties": {
-        "station_name": "เชียงราย",
-        "province": "เชียงราย",
-        "temp": 26.5,
-        "rainfall": 0.2,
-        "rainfall_24hr": 0.6,
         "wind_speed": 9.3,
-        "wind_direction_deg": 150.0,
-        "wind_direction_label": "SE",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.8025,
-          19.11056
-        ]
-      },
-      "properties": {
-        "station_name": "ท่าวังผา",
-        "province": "น่าน",
-        "temp": 26.2,
-        "rainfall": 0.2,
-        "rainfall_24hr": 43.2,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.51672,
-          18.41361
-        ]
-      },
-      "properties": {
-        "station_name": "บึงกาฬ",
-        "province": "บึงกาฬ",
-        "temp": 29.3,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 240.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.52697,
-          16.48681
-        ]
-      },
-      "properties": {
-        "station_name": "กำแพงเพชร",
-        "province": "กำแพงเพชร",
-        "temp": 31.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 270.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.74389,
-          16.02
-        ]
-      },
-      "properties": {
-        "station_name": "ร้อยเอ็ด",
-        "province": "ร้อยเอ็ด",
-        "temp": 32.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 280.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.13889,
-          14.47444
-        ]
-      },
-      "properties": {
-        "station_name": "สุพรรณบุรี",
-        "province": "สุพรรณบุรี",
-        "temp": 33.2,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.5,
-          14.88333
-        ]
-      },
-      "properties": {
-        "station_name": "สุรินทร์",
-        "province": "สุรินทร์",
-        "temp": 33.3,
-        "rainfall": 0.0,
-        "rainfall_24hr": 14.5,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 330.0,
-        "wind_direction_label": "NW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.56805,
-          13.70694
-        ]
-      },
-      "properties": {
-        "station_name": "กรุงเทพฯ ท่าเรือคลองเตย",
-        "province": "กรุงเทพมหานคร",
-        "temp": 31.7,
-        "rainfall": 0.0,
-        "rainfall_24hr": 16.4,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.17305,
-          12.50861
-        ]
-      },
-      "properties": {
-        "station_name": "พลิ้ว สกษ.",
-        "province": "จันทบุรี",
-        "temp": 32.4,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.94722,
-          8.53778
-        ]
-      },
-      "properties": {
-        "station_name": "นครศรีธรรมราช",
-        "province": "นครศรีธรรมราช",
-        "temp": 34.2,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.4,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 120.0,
-        "wind_direction_label": "SE",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.60769,
-          7.18211
-        ]
-      },
-      "properties": {
-        "station_name": "สงขลา",
-        "province": "สงขลา",
-        "temp": 31.6,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.6,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 50.0,
-        "wind_direction_label": "NE",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.24475,
-          17.63661
-        ]
-      },
-      "properties": {
-        "station_name": "เถิน",
-        "province": "ลำปาง",
-        "temp": 31.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.2,
-        "wind_speed": 1.9,
-        "wind_direction_deg": 240.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.8,
-          17.38333
-        ]
-      },
-      "properties": {
-        "station_name": "อุดรธานี",
-        "province": "อุดรธานี",
-        "temp": 30.3,
-        "rainfall": 0.0,
-        "rainfall_24hr": 3.2,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.93333,
-          16.75
-        ]
-      },
-      "properties": {
-        "station_name": "ดอยมูเซอร์ สกษ.",
-        "province": "ตาก",
-        "temp": 22.9,
-        "rainfall": 0.4,
-        "rainfall_24hr": 10.4,
-        "wind_speed": 16.7,
-        "wind_direction_deg": 250.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.58833,
-          16.3325
-        ]
-      },
-      "properties": {
-        "station_name": "กาฬสินธุ์",
-        "province": "กาฬสินธุ์",
-        "temp": 32.4,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 110.0,
+        "wind_direction_deg": 80.0,
         "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.03889,
-          15.37417
-        ]
-      },
-      "properties": {
-        "station_name": "อุทัยธานี",
-        "province": "อุทัยธานี",
-        "temp": 34.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.7675,
-          13.68639
-        ]
-      },
-      "properties": {
-        "station_name": "สนามบินสุวรรณภูมิ",
-        "province": "สมุทรปราการ",
-        "temp": 32.1,
-        "rainfall": 0.0,
-        "rainfall_24hr": 44.4,
-        "wind_speed": 16.7,
-        "wind_direction_deg": 220.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.50417,
-          13.68869
-        ]
-      },
-      "properties": {
-        "station_name": "อรัญประเทศ",
-        "province": "สระแก้ว",
-        "temp": 33.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 87.1,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 300.0,
-        "wind_direction_label": "NW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.98333,
-          12.68333
-        ]
-      },
-      "properties": {
-        "station_name": "สัตหีบ",
-        "province": "ชลบุรี",
-        "temp": 32.4,
-        "rainfall": 0.01,
-        "rainfall_24hr": 0.01,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.1,
-          10.33333
-        ]
-      },
-      "properties": {
-        "station_name": "สวี สกษ.",
-        "province": "ชุมพร",
-        "temp": 33.7,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.31444,
-          8.145
-        ]
-      },
-      "properties": {
-        "station_name": "ภูเก็ต (ศูนย์ฯ)",
-        "province": "ภูเก็ต",
-        "temp": 32.4,
-        "rainfall": 0.8,
-        "rainfall_24hr": 0.8,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 280.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.03389,
-          18.56722
-        ]
-      },
-      "properties": {
-        "station_name": "ลำพูน",
-        "province": "ลำพูน",
-        "temp": 31.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 280.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.061,
-          17.12503
-        ]
-      },
-      "properties": {
-        "station_name": "สกลนคร สกษ.",
-        "province": "สกลนคร",
-        "temp": 32.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 210.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.2793,
-          16.79481
-        ]
-      },
-      "properties": {
-        "station_name": "พิษณุโลก",
-        "province": "พิษณุโลก",
-        "temp": 26.3,
-        "rainfall": 6.8,
-        "rainfall_24hr": 7.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 110.0,
-        "wind_direction_label": "E",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.13236,
-          15.67183
-        ]
-      },
-      "properties": {
-        "station_name": "นครสวรรค์",
-        "province": "นครสวรรค์",
-        "temp": 33.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.39278,
-          14.36222
-        ]
-      },
-      "properties": {
-        "station_name": "นครนายก",
-        "province": "นครนายก",
-        "temp": 22.3,
-        "rainfall": 0.0,
-        "rainfall_24hr": 15.9,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 280.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.70722,
-          13.98333
-        ]
-      },
-      "properties": {
-        "station_name": "กบินทร์บุรี",
-        "province": "ปราจีนบุรี",
-        "temp": 30.1,
-        "rainfall": 0.0,
-        "rainfall_24hr": 7.3,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.53583,
-          14.0225
-        ]
-      },
-      "properties": {
-        "station_name": "กาญจนบุรี",
-        "province": "กาญจนบุรี",
-        "temp": 34.5,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.01,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 190.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.06056,
-          12.99944
-        ]
-      },
-      "properties": {
-        "station_name": "เพชรบุรี",
-        "province": "เพชรบุรี",
-        "temp": 31.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.01,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.15194,
-          9.13556
-        ]
-      },
-      "properties": {
-        "station_name": "สุราษฎร์ธานี",
-        "province": "สุราษฎร์ธานี",
-        "temp": 34.1,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 16.7,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.97528,
-          8.10361
-        ]
-      },
-      "properties": {
-        "station_name": "กระบี่",
-        "province": "กระบี่",
-        "temp": 33.4,
-        "rainfall": 1.6,
-        "rainfall_24hr": 1.6,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2346,14 +2588,14 @@
       "properties": {
         "station_name": "เชียงราย สกษ.",
         "province": "เชียงราย",
-        "temp": 27.1,
-        "rainfall": 0.01,
-        "rainfall_24hr": 0.01,
-        "wind_speed": 7.4,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
+        "temp": 25.6,
+        "rainfall": 0.4,
+        "rainfall_24hr": 0.4,
+        "wind_speed": 11.1,
+        "wind_direction_deg": 210.0,
+        "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2368,14 +2610,14 @@
       "properties": {
         "station_name": "ทุ่งช้าง",
         "province": "น่าน",
-        "temp": 25.0,
-        "rainfall": 3.6,
-        "rainfall_24hr": 3.9,
+        "temp": 24.8,
+        "rainfall": 1.2,
+        "rainfall_24hr": 5.1,
         "wind_speed": 0.0,
         "wind_direction_deg": 0.0,
         "wind_direction_label": "N",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2390,14 +2632,14 @@
       "properties": {
         "station_name": "สุโขทัย",
         "province": "สุโขทัย",
-        "temp": 30.2,
+        "temp": 31.3,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
         "wind_speed": 11.1,
-        "wind_direction_deg": 220.0,
+        "wind_direction_deg": 240.0,
         "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2412,14 +2654,14 @@
       "properties": {
         "station_name": "ขอนแก่น",
         "province": "ขอนแก่น",
-        "temp": 32.5,
+        "temp": 33.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
         "wind_speed": 5.6,
         "wind_direction_deg": 250.0,
         "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2434,14 +2676,14 @@
       "properties": {
         "station_name": "ร้อยเอ็ด สกษ.",
         "province": "ร้อยเอ็ด",
-        "temp": 31.9,
+        "temp": 32.0,
         "rainfall": 0.0,
         "rainfall_24hr": 0.2,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 190.0,
+        "wind_speed": 3.7,
+        "wind_direction_deg": 200.0,
         "wind_direction_label": "S",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2456,14 +2698,14 @@
       "properties": {
         "station_name": "อู่ทอง สกษ.",
         "province": "สุพรรณบุรี",
-        "temp": 34.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 13.0,
+        "temp": 32.8,
+        "rainfall": 1.2,
+        "rainfall_24hr": 1.2,
+        "wind_speed": 18.5,
         "wind_direction_deg": 260.0,
         "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2478,14 +2720,14 @@
       "properties": {
         "station_name": "สุรินทร์ สกษ.",
         "province": "สุรินทร์",
-        "temp": 32.9,
+        "temp": 31.4,
         "rainfall": 0.0,
         "rainfall_24hr": 7.0,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 240.0,
+        "wind_speed": 5.6,
+        "wind_direction_deg": 230.0,
         "wind_direction_label": "SW",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2500,14 +2742,14 @@
       "properties": {
         "station_name": "กรุงเทพฯ บางนา สกษ.",
         "province": "กรุงเทพมหานคร",
-        "temp": 32.7,
+        "temp": 32.3,
         "rainfall": 0.0,
         "rainfall_24hr": 48.5,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 310.0,
-        "wind_direction_label": "NW",
+        "wind_speed": 7.4,
+        "wind_direction_deg": 170.0,
+        "wind_direction_label": "S",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2522,14 +2764,14 @@
       "properties": {
         "station_name": "ประจวบคีรีขันธ์",
         "province": "ประจวบคีรีขันธ์",
-        "temp": 31.5,
+        "temp": 33.5,
         "rainfall": 0.0,
         "rainfall_24hr": 0.0,
-        "wind_speed": 7.4,
+        "wind_speed": 11.1,
         "wind_direction_deg": 270.0,
         "wind_direction_label": "W",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2544,14 +2786,14 @@
       "properties": {
         "station_name": "นครศรีธรรมราช สกษ.",
         "province": "นครศรีธรรมราช",
-        "temp": 33.4,
+        "temp": 33.2,
         "rainfall": 0.0,
-        "rainfall_24hr": 17.6,
-        "wind_speed": 3.7,
-        "wind_direction_deg": 310.0,
-        "wind_direction_label": "NW",
+        "rainfall_24hr": 1.6,
+        "wind_speed": 7.4,
+        "wind_direction_deg": 110.0,
+        "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     },
     {
@@ -2566,256 +2808,14 @@
       "properties": {
         "station_name": "หาดใหญ่",
         "province": "สงขลา",
-        "temp": 32.6,
-        "rainfall": 0.0,
-        "rainfall_24hr": 12.2,
-        "wind_speed": 7.4,
-        "wind_direction_deg": null,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.9,
-          19.13333
-        ]
-      },
-      "properties": {
-        "station_name": "พะเยา",
-        "province": "พะเยา",
-        "temp": 28.6,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 0.0,
-        "wind_direction_deg": 0.0,
-        "wind_direction_label": "N",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.1,
-          17.61667
-        ]
-      },
-      "properties": {
-        "station_name": "อุตรดิตถ์",
-        "province": "อุตรดิตถ์",
-        "temp": 31.1,
-        "rainfall": 0.0,
-        "rainfall_24hr": 39.2,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 210.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.86167,
-          17.16136
-        ]
-      },
-      "properties": {
-        "station_name": "ศรีสำโรง สกษ.",
-        "province": "สุโขทัย",
-        "temp": 30.6,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.2,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.81667,
-          16.33333
-        ]
-      },
-      "properties": {
-        "station_name": "ท่าพระ สกษ.",
-        "province": "ขอนแก่น",
-        "temp": 33.9,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 200.0,
-        "wind_direction_label": "S",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.21436,
-          15.79494
-        ]
-      },
-      "properties": {
-        "station_name": "ยโสธร",
-        "province": "ยโสธร",
-        "temp": 31.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 210.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.645,
-          14.79972
-        ]
-      },
-      "properties": {
-        "station_name": "ลพบุรี",
-        "province": "ลพบุรี",
-        "temp": 33.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
+        "temp": 25.2,
+        "rainfall": 24.6,
+        "rainfall_24hr": 32.4,
         "wind_speed": 5.6,
-        "wind_direction_deg": 260.0,
-        "wind_direction_label": "W",
+        "wind_direction_deg": 100.0,
+        "wind_direction_label": "E",
         "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.68333,
-          15.31667
-        ]
-      },
-      "properties": {
-        "station_name": "ท่าตูม",
-        "province": "สุรินทร์",
-        "temp": 33.1,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 5.6,
-        "wind_direction_deg": 230.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.605,
-          13.91917
-        ]
-      },
-      "properties": {
-        "station_name": "สนามบินดอนเมือง",
-        "province": "กรุงเทพมหานคร",
-        "temp": 33.6,
-        "rainfall": 0.0,
-        "rainfall_24hr": 1.4,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 290.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.9625,
-          12.58611
-        ]
-      },
-      "properties": {
-        "station_name": "หัวหิน",
-        "province": "ประจวบคีรีขันธ์",
-        "temp": 33.0,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 11.1,
-        "wind_direction_deg": 250.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.50667,
-          8.42472
-        ]
-      },
-      "properties": {
-        "station_name": "ฉวาง",
-        "province": "นครศรีธรรมราช",
-        "temp": 33.8,
-        "rainfall": 0.0,
-        "rainfall_24hr": 1.0,
-        "wind_speed": 9.3,
-        "wind_direction_deg": 270.0,
-        "wind_direction_label": "W",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.08333,
-          6.65
-        ]
-      },
-      "properties": {
-        "station_name": "สตูล",
-        "province": "สตูล",
-        "temp": 34.6,
-        "rainfall": 0.0,
-        "rainfall_24hr": 0.0,
-        "wind_speed": 13.0,
-        "wind_direction_deg": 210.0,
-        "wind_direction_label": "SW",
-        "observation_date": "2026-07-17",
-        "record_timestamp": "2026-07-17T08:19:15.511659"
+        "record_timestamp": "2026-07-17T10:52:25.211831"
       }
     }
   ]
