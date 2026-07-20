@@ -1,10 +1,10 @@
-name: Sync Thailand Weather Stations
+name: Sync Thailand Weather to ArcGIS Online
 
 on:
   workflow_dispatch:
 
   schedule:
-    # ทุก 1 ชั่วโมง ที่นาที 23
+    # ทำงานทุก 1 ชั่วโมง ที่นาที 23
     - cron: "23 * * * *"
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Download and clean weather data
+      - name: Download latest weather data
         env:
           WEATHER_SOURCE_URL: ${{ secrets.WEATHER_SOURCE_URL }}
         run: python update_weather.py
@@ -44,7 +44,7 @@ jobs:
           ARCGIS_ITEM_ID: ${{ secrets.ARCGIS_ITEM_ID }}
         run: python sync_arcgis.py
 
-      - name: Commit latest GeoJSON
+      - name: Save latest GeoJSON to GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
