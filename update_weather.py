@@ -199,8 +199,9 @@ def clean_feature(
         "wind_direction_label": safe_text(
             properties.get("wind_direction_label")
         ),
-        "observation_date": normalize_date(
-            properties.get("date")
+       "observation_date_text": normalize_date(
+        properties.get("date")
+),
         ),
         "record_timestamp": normalize_timestamp(
             properties.get("record_timestamp")
