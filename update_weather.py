@@ -13,16 +13,26 @@ TIMEOUT = 90
 
 
 def safe_text(value: Any) -> str | None:
-    """คืนข้อความ หรือ None เมื่อไม่มีข้อมูล."""
+    """
+    แปลงค่าเป็นข้อความ
+    หากไม่มีข้อมูล ให้คืนค่า None
+    """
     if value in (None, "", "-", "null"):
         return None
 
     text = str(value).strip()
-    return text or None
+
+    if not text:
+        return None
+
+    return text
 
 
 def safe_number(value: Any) -> float | None:
-    """คืนตัวเลข หรือ None เมื่อค่าใช้ไม่ได้."""
+    """
+    แปลงค่าเป็นตัวเลข
+    หากแปลงไม่ได้ ให้คืนค่า None
+    """
     if value in (None, "", "-", "null"):
         return None
 
@@ -32,36 +42,49 @@ def safe_number(value: Any) -> float | None:
         return None
 
 
-def normalize_date(value: Any) -> str | None:
+def normalize_date_text(value: Any) -> str | None:
     """
-    แปลงวันที่เป็นรูปแบบ YYYY-MM-DD
-    รองรับตัวอย่าง 07/16/2026
+    แปลงวันที่ให้เป็นข้อความเท่านั้น
+
+    ใส่คำว่า DATE: ไว้ด้านหน้า
+    เพื่อป้องกัน ArcGIS Online เดาชนิดฟิลด์เป็น Date Only
     """
     text = safe_text(value)
 
     if text is None:
         return None
 
-    formats = (
+    date_formats = (
         "%m/%d/%Y",
         "%Y-%m-%d",
         "%d/%m/%Y",
     )
 
-    for date_format in formats:
+    for date_format in date_formats:
         try:
-            parsed = datetime.strptime(text, date_format)
-            return parsed.strftime("%Y-%m-%d")
+            parsed_date = datetime.strptime(
+                text,
+                date_format,
+            )
+
+            return (
+                "DATE: "
+                + parsed_date.strftime("%Y-%m-%d")
+            )
+
         except ValueError:
             continue
 
-    return text
+    return f"DATE: {text}"
 
 
-def normalize_timestamp(value: Any) -> str | None:
+def normalize_timestamp_text(value: Any) -> str | None:
     """
-    ตรวจสอบ ISO timestamp เช่น
-    2026-07-16T03:55:21.988715
+    เก็บวันและเวลาเป็นข้อความเท่านั้น
+
+    ใส่คำว่า DATETIME: ไว้ด้านหน้า
+    เพื่อป้องกัน ArcGIS Online เดาชนิดฟิลด์เป็น Date
+    หรือ Timestamp Offset
     """
     text = safe_text(value)
 
@@ -69,25 +92,46 @@ def normalize_timestamp(value: Any) -> str | None:
         return None
 
     try:
-        parsed = datetime.fromisoformat(
+        parsed_timestamp = datetime.fromisoformat(
             text.replace("Z", "+00:00")
         )
-        return parsed.isoformat()
+
+        formatted_timestamp = (
+            parsed_timestamp.strftime(
+                "%Y-%m-%d %H:%M:%S"
+            )
+        )
+
+        return (
+            "DATETIME: "
+            + formatted_timestamp
+        )
+
     except ValueError:
-        return text
+        return f"DATETIME: {text}"
 
 
-def download_source(source_url: str) -> dict[str, Any]:
-    print(f"Downloading weather data: {source_url}")
+def download_source(
+    source_url: str,
+) -> dict[str, Any]:
+    """
+    ดาวน์โหลดข้อมูล GeoJSON จาก URL ต้นทาง
+    """
+    print(
+        f"Downloading weather data: {source_url}"
+    )
 
     response = requests.get(
         source_url,
         headers={
             "Accept": "application/json",
-            "User-Agent": "Thailand-Weather-ArcGIS/1.0",
+            "User-Agent": (
+                "Thailand-Weather-ArcGIS/1.0"
+            ),
         },
         timeout=TIMEOUT,
     )
+
     response.raise_for_status()
 
     data = response.json()
@@ -99,28 +143,36 @@ def download_source(source_url: str) -> dict[str, Any]:
 
     if data.get("type") != "FeatureCollection":
         raise RuntimeError(
-            "ข้อมูลต้นทางไม่ใช่ GeoJSON FeatureCollection"
+            "ข้อมูลต้นทางไม่ใช่ GeoJSON "
+            "FeatureCollection"
         )
 
     features = data.get("features")
 
     if not isinstance(features, list):
         raise RuntimeError(
-            "ไม่พบรายการ features ในข้อมูลต้นทาง"
+            "ไม่พบรายการ features "
+            "ในข้อมูลต้นทาง"
         )
 
     if not features:
         raise RuntimeError(
-            "ข้อมูลต้นทางไม่มีสถานี"
+            "ข้อมูลต้นทางไม่มีข้อมูลสถานี"
         )
 
-    print(f"Downloaded features: {len(features)}")
+    print(
+        f"Downloaded features: {len(features)}"
+    )
+
     return data
 
 
 def clean_feature(
     feature: dict[str, Any],
 ) -> dict[str, Any] | None:
+    """
+    ตรวจสอบและทำความสะอาดแต่ละสถานี
+    """
     geometry = feature.get("geometry") or {}
     properties = feature.get("properties") or {}
 
@@ -138,6 +190,7 @@ def clean_feature(
     try:
         longitude = float(coordinates[0])
         latitude = float(coordinates[1])
+
     except (TypeError, ValueError):
         return None
 
@@ -155,7 +208,7 @@ def clean_feature(
         properties.get("province")
     )
 
-    if not station_name:
+    if station_name is None:
         return None
 
     wind_speed = safe_number(
@@ -171,12 +224,18 @@ def clean_feature(
         and not 0 <= wind_direction <= 360
     ):
         print(
-            f"Invalid wind direction at {station_name}: "
-            f"{wind_direction}; converted to null."
+            "Invalid wind direction at "
+            f"{station_name}: "
+            f"{wind_direction}. "
+            "Converted to null."
         )
+
         wind_direction = None
 
-    if wind_speed is not None and wind_speed < 0:
+    if (
+        wind_speed is not None
+        and wind_speed < 0
+    ):
         wind_speed = None
 
     cleaned_properties = {
@@ -194,13 +253,21 @@ def clean_feature(
         "wind_speed": wind_speed,
         "wind_direction_deg": wind_direction,
         "wind_direction_label": safe_text(
-            properties.get("wind_direction_label")
+            properties.get(
+                "wind_direction_label"
+            )
         ),
-        "observation_date_text": normalize_date(
-            properties.get("date")
+        "observation_date_text": (
+            normalize_date_text(
+                properties.get("date")
+            )
         ),
-        "record_timestamp": normalize_timestamp(
-            properties.get("record_timestamp")
+        "record_timestamp_text": (
+            normalize_timestamp_text(
+                properties.get(
+                    "record_timestamp"
+                )
+            )
         ),
     }
 
@@ -218,6 +285,9 @@ def clean_feature(
 
 
 def main() -> None:
+    """
+    ฟังก์ชันหลักสำหรับสร้าง weather.geojson
+    """
     source_url = os.environ.get(
         "WEATHER_SOURCE_URL"
     )
@@ -225,33 +295,43 @@ def main() -> None:
     if not source_url:
         raise RuntimeError(
             "Missing WEATHER_SOURCE_URL. "
-            "กรุณาเพิ่ม URL ต้นทางใน GitHub Secret"
+            "กรุณาเพิ่ม URL ต้นทาง "
+            "ใน GitHub Secret"
         )
 
-    source = download_source(source_url)
+    source_data = download_source(
+        source_url
+    )
 
     cleaned_features = []
 
-    for feature in source["features"]:
-        cleaned = clean_feature(feature)
+    for feature in source_data["features"]:
+        cleaned_feature = clean_feature(
+            feature
+        )
 
-        if cleaned is not None:
-            cleaned_features.append(cleaned)
+        if cleaned_feature is not None:
+            cleaned_features.append(
+                cleaned_feature
+            )
 
     if not cleaned_features:
         raise RuntimeError(
-            "ไม่เหลือสถานีหลังตรวจสอบข้อมูล"
+            "ไม่เหลือข้อมูลสถานี "
+            "หลังจากตรวจสอบข้อมูล"
         )
 
-    output = {
+    output_data = {
         "type": "FeatureCollection",
-        "name": "Thailand_Weather_Stations",
+        "name": (
+            "Thailand_Weather_Stations"
+        ),
         "features": cleaned_features,
     }
 
     OUTPUT_FILE.write_text(
         json.dumps(
-            output,
+            output_data,
             ensure_ascii=False,
             indent=2,
             allow_nan=False,
@@ -269,9 +349,12 @@ def main() -> None:
 if __name__ == "__main__":
     try:
         main()
+
     except Exception as error:
         print(
-            f"WEATHER UPDATE FAILED: {error}",
+            "WEATHER UPDATE FAILED: "
+            f"{error}",
             file=sys.stderr,
         )
+
         sys.exit(1)
